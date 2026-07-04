@@ -17,14 +17,6 @@
 
 ---
 
-## 📊 Activity Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sayb1e/Sayb1e/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Skills |
