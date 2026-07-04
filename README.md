@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Binary+Security;Windows+Internals;Reverse+Engineering;Malware+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Binary+Security;Windows+Internals;Reverse+Engineering;Malware+Analysis" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -36,29 +36,4 @@
 | [APCInjection](https://github.com/Sayb1e/APCInjection) | APC 注入技术研究 | C |
 | [EarlyBirdInjection](https://github.com/Sayb1e/EarlyBirdInjection) | 早鸟注入（Early Bird）实现 | C |
 | [ProcessHollowing](https://github.com/Sayb1e/ProcessHollowing) | 进程镂空（Process Hollowing）| C |
-| [InjectionCLI](https://github.com/Sayb1e/InjectionCLI) | 多方式注入工具 CLI | C |
-| [Knowledge](https://github.com/Sayb1e/Knowledge) | 安全知识库/笔记 | C/Markdown |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayb1e&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayb1e&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayb1e&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contact
-
-- 🌐 Blog: [http://sayble.xyz](http://sayble.xyz)
-- 💬 专注于 Windows 底层攻防、恶意代码分析与红队技术研究
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sayb1e&color=00FF00&style=flat-square&label=Profile+Views"/>
-</p>
+| [InjectionCLI](https://github.com/Sayb1
