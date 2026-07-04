@@ -44,4 +44,29 @@
 | [APCInjection](https://github.com/Sayb1e/APCInjection) | APC 注入技术研究 | C |
 | [EarlyBirdInjection](https://github.com/Sayb1e/EarlyBirdInjection) | 早鸟注入（Early Bird）实现 | C |
 | [ProcessHollowing](https://github.com/Sayb1e/ProcessHollowing) | 进程镂空（Process Hollowing）| C |
-| [InjectionCLI](https://github.com/Sayb1
+| [InjectionCLI](https://github.com/Sayb1e/InjectionCLI) | 多方式注入工具 CLI | C |
+| [Knowledge](https://github.com/Sayb1e/Knowledge) | 安全知识库/笔记 | C/Markdown |
+
+---
+
+## 📊 Activity Stats
+
+<p align="center">
+  <!-- 关键修复：使用绝对路径，确保 GitHub 主页能加载 -->
+  <img src="https://raw.githubusercontent.com/Sayb1e/Sayb1e/main/profile-season-animate.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayb1e&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 🌐 Blog: [http://sayble.xyz](http://sayble.xyz)
+- 💬 专注于 Windows 底层攻防、恶意代码分析与红队技术研究
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sayb1e&color=00FF00&style=flat-square&label=Profile+Views"/>
+</p>
