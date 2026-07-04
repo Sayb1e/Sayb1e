@@ -17,6 +17,12 @@
 
 ---
 
+## 📊 Activity Stats
+
+<p align="center">
+  <img src="./profile-season-animate.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
 ## 🛠️ Tech Stack
 
 | Category | Skills |
