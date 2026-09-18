@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "15 0 * * *"   # 每天 UTC 00:15 自动更新
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   github-metrics:
