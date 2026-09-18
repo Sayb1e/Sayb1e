@@ -48,11 +48,6 @@
 ## 📊 数据 · Stats
 
 <p align="center">
-  <!-- 由 GitHub Actions 自托管生成，见 .github/workflows/metrics.yml -->
-  <img src="https://raw.githubusercontent.com/Sayb1e/Sayb1e/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sayb1e&hide_border=true&theme=tokyonight"/>
 </p>
 
