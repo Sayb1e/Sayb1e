@@ -11,7 +11,7 @@
   <h3>让应用自己把秘密说出来</h3>
   <p><i>Let the apps tell their own secrets.</i></p>
 
-  <img src="https://komarev.com/ghpvc/?username=Sayb1e&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Sayb1e.Sayb1e&label=Profile%20Views&countColor=%2300E1FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -48,20 +48,12 @@
 ## 📊 数据 · Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sayb1e&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayb1e&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+  <!-- 由 GitHub Actions 自托管生成，见 .github/workflows/metrics.yml -->
+  <img src="https://raw.githubusercontent.com/Sayb1e/Sayb1e/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sayb1e&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayb1e&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayb1e&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ## 🐍 贪吃蛇 · Contribution Snake
