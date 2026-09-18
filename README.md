@@ -21,10 +21,10 @@
 
 | 类别 / Category | 内容 / Skills |
 | :--- | :--- |
-| **语言 · Languages** | C · C++ · Python · Assembly (x86 / x64) |
-| **方向 · Domains** | Windows Internals · PE Format · DLL / APC / EarlyBird Injection · Process Hollowing |
-| **工具 · Tools** | IDA Pro · x64dbg · WinDbg · Process Monitor · 010 Editor |
-| **平台 · Platforms** | Windows · Kali Linux |
+| **语言 · Languages** | C · C++ · Python · Java |
+| **方向 · Domains** | Windows Internals · Android · DLL Injection · Process Hollowing |
+| **工具 · Tools** | IDA Pro · x64dbg · WinDbg · Process Monitor · Jadx |
+| **平台 · Platforms** | Windows · Ubuntu |
 
 ## 🧰 工具箱 · Toolbox
 
