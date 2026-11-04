@@ -8,7 +8,6 @@
     />
   </a>
 
-  <h3>让应用自己把秘密说出来</h3>
   <p><i>Let the apps tell their own secrets.</i></p>
 
   <img src="https://api.visitorbadge.io/api/visitors?path=Sayb1e.Sayb1e&label=Profile%20Views&countColor=%2300E1FF&style=for-the-badge" alt="Profile Views"/>
@@ -16,15 +15,6 @@
 </div>
 
 ---
-
-## 🛠 技术栈 · Tech Stack
-
-| 类别 / Category | 内容 / Skills |
-| :--- | :--- |
-| **语言 · Languages** | C · C++ · Python · Java |
-| **方向 · Domains** | Windows Internals · Android · DLL Injection · Process Hollowing |
-| **工具 · Tools** | IDA Pro · x64dbg · WinDbg · Process Monitor · Jadx |
-| **平台 · Platforms** | Windows · Ubuntu |
 
 ## 🧰 工具箱 · Toolbox
 
@@ -76,5 +66,3 @@
   <a href="mailto:sayb1e@qq.com"><img src="https://img.shields.io/badge/Email-sayb1e%40qq.com-D14836?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
   <a href="https://github.com/Sayb1e"><img src="https://img.shields.io/badge/GitHub-Sayb1e-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<div align="center"><i>专注 Windows 底层攻防、恶意代码分析与红队技术研究</i></div>
